@@ -24,8 +24,6 @@
   <project path="external/json-c" name="external_json-c" remote="maritim" />
   <project path="external/selinux" name="external_selinux" remote="maritim" />
   <project path="external/tinycompress" name="external_tinycompress" remote="maritim" />
-  <project path="external/themelib" name="external_themelib" remote="maritim" />
-  <project path="external/colorkt" name="external_colorkt" remote="maritim" />
   <project path="external/sqlite" name="external_sqlite" remote="maritim" />
   <project path="external/tinyxml" name="external_tinyxml" remote="maritim" />
 
@@ -78,6 +76,6 @@
   <project path="system/vold" name="system_vold" remote="maritim" />
   
   <!-- Vendor -->
-  <project path="vendor/maritimroid" name="vendor_maritimroid" remote="maritim" />
+  <project path="vendor/maritim" name="vendor_maritim" remote="maritim" />
 
 </manifest>
